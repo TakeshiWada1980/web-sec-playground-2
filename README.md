@@ -66,6 +66,6 @@ npm run start
 - データベースの状態確認
 
 ```bash
-npx prisma studio
+npx prisma stu
 ```
 
